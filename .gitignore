@@ -1,0 +1,11 @@
+
+*.pyc
+
+# configuration file
+config.py
+
+# log files
+logs/*
+
+# pycharm project files
+.idea
